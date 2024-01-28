@@ -1,35 +1,9 @@
-<div class="col bg-light mx-5 p-5">
-       <h2> Graphic Design</h2>
-       <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration</p>
-
-      </div>
-      <div class="col bg-light mx-5  p-5">
-        <h2>Digital Marketing</h2>
-        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-        </p>
-      </div>
-      <div class="col bg-light mx-5 p-5">
-        <h2>Branding
-        </h2>
-        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-        </p>
-      </div>
-    </div>
-    <div class="row py-5">
-      <div class="col bg-light mx-5 p-5">
-        <h2>Development</h2>
-        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-        </p>
-      </div>
-      <div class="col bg-light mx-5 p-5">
-        <h2>Mobile Application</h2>
-        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-        </p>
-      </div>
-      <div class="col bg-light mx-5 p-5">
-        <h2>Photography</h2>
-        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-        </p>
-      </div>
-
-
+.card .photo a button{
+  opacity: 0;
+}
+.card:hover .photo a button{
+  opacity: 1;
+}
+.card .photo a button:hover{
+        background-color: green;
+    }
