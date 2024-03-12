@@ -1,9 +1,9 @@
 .card .photo a button{
   opacity: 0;
 }
-.card:hover .photo a button{
+.plus-btn:hover{
   opacity: 1;
 }
-.card .photo a button:hover{
+.plus-btn:hover{
         background-color: green;
     }

@@ -1,7 +1,7 @@
 [
     {
         "id":1,
-        "image":"file:///E:/her_power_project/bootstarp/Portfolio/index.html",
+        "image":"https://i.ibb.co/LPp6LML/cap.jpg",
         "name":"Portfolio",
         "skill":"HTML,CSS,bootstarp,JavaScript",
         "description":"my bio-data and work experience",
@@ -10,7 +10,7 @@
     },
     {
         "id":2,
-        "image":"file:///E:/her_power_project/bootstarp/Portfolio/index.html",
+        "image":"https://i.ibb.co/2yRTbDZ/card.jpg",
         "name":"Portfolio",
         "skill":"HTML,CSS,bootstarp,JavaScript",
         "description":"my bio-data and work experience",
@@ -19,7 +19,34 @@
     },
     {
         "id":3,
-        "image":"file:///E:/her_power_project/bootstarp/Portfolio/index.html",
+        "image":"https://i.ibb.co/gVmwBnb/cup.jpg",
+        "name":"Portfolio",
+        "skill":"HTML,CSS,bootstarp,JavaScript",
+        "description":"my bio-data and work experience",
+        "details":"file:///E:/her_power_project/bootstarp/Portfolio/index.html"
+        
+    },
+    {
+        "id":3,
+        "image":"https://i.ibb.co/mFT41J2/glass.jpg",
+        "name":"Portfolio",
+        "skill":"HTML,CSS,bootstarp,JavaScript",
+        "description":"my bio-data and work experience",
+        "details":"file:///E:/her_power_project/bootstarp/Portfolio/index.html"
+        
+    },
+    {
+        "id":3,
+        "image":"https://i.ibb.co/frsgGpz/pen.jpg",
+        "name":"Portfolio",
+        "skill":"HTML,CSS,bootstarp,JavaScript",
+        "description":"my bio-data and work experience",
+        "details":"file:///E:/her_power_project/bootstarp/Portfolio/index.html"
+        
+    },
+    {
+        "id":3,
+        "image":"https://i.ibb.co/pWn4fsj/mug.jpg",
         "name":"Portfolio",
         "skill":"HTML,CSS,bootstarp,JavaScript",
         "description":"my bio-data and work experience",
